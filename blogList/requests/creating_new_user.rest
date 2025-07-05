@@ -1,0 +1,13 @@
+POST http://localhost:3003/api/users
+Content-Type: application/json
+
+{
+    "username": "mluukkai",
+    "name": "Matti Luukkainen",
+    "password": "salainen"
+}
+
+###
+
+DELETE http://localhost:3003/api/users/6866ea47e5e48f3c72a45d82
+Content-Type: application/json

@@ -1,0 +1,13 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IlJvZ2VyX0ZyYW5rIiwiaWQiOiI2ODIzYmVlNDY5ZjMyZTA1YmQ2NmJjYzYiLCJpYXQiOjE3NDcxNzkwNjYsImV4cCI6MTc0NzE4MjY2Nn0.RczSnqPh7S-MRaQcgNHgEslYfsYS33O4oCikimzY4-Y
+
+{
+    "title": "String-4",
+    "author": "String-4",
+    "url": "String-4"
+}
+
+
+
+
